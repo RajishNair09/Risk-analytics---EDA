@@ -22,6 +22,7 @@ he/she had late payment more than X days on at least one of the first Y instalme
 ##### All other cases: 
 All other cases when the payment is paid on time.
 
+
 When a client applies for a loan, there are four types of decisions that could be taken by the client/company):
 
 ##### Approved:
@@ -54,5 +55,9 @@ The data is about whether a client has payment difficulties.
 2. 'previous_application.csv' contains information about the client’s previous loan data. It contains the data on whether the previous application had been Approved, Cancelled, Refused or Unused offer.
 
 3. 'columns_description.csv' is data dictionary which describes the meaning of the variables.
+
+Download the dataset from the link below.  
+
+https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZ
 
 
